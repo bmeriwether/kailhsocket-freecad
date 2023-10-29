@@ -15,6 +15,6 @@ Notes:
 
 # Kailh socket Boolean
 
-This is a boolean body of the socket (body only, not including wings). I find the boolean body sufficient in most of my keyboard layout / plate design projects and as such this body is more useful than importing the entire model. It can also be possibly used to add tolerances and such without needing to tweak the fully detailed model.
+This is a boolean body of the socket. I find the boolean body sufficient in most of my keyboard layout / plate design projects and as such this body is more useful than importing the entire model. It can also be possibly used to add tolerances and such when designing for 3d printing projects based around the socket.
 
 ![alt text](Boolean_body_example.png)
