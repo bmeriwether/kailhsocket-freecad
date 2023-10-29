@@ -12,6 +12,7 @@ Notes:
 
 ![alt text](Reference_planes2.png)
 ![alt text](Socket_body_example.png)
+![alt text](Socket_wings.png)
 
 # Kailh socket Boolean
 
