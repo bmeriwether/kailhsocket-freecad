@@ -10,7 +10,7 @@ Notes:
 * Reference images are included (since they are difficult to find). Copyright to Kailh for any specifications or images found.
 * I did not model some of the minor details such as the lettering as it does not generally impact those of us looking to build components around the socket.
 
-![alt text](Reference_planes.png)
+![alt text](Reference_planes2.png)
 ![alt text](Socket_body_example.png)
 
 # Kailh socket Boolean
