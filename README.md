@@ -1,5 +1,5 @@
 # kailhsocket-freecad
-Freecad reverse engineer of Kailh hotswap socket body for mech keyboard design, layout, etc
+A 1:1 3d model of the Kailh Hotswap socket made from references images and specifications.
 
 # Kailh socket freecad
 
